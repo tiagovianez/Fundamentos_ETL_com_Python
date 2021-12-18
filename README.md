@@ -1,4 +1,4 @@
-## Neste curso os conteúdos abordados foram:
+## Neste curso os conteúdos trabalhados foram:
 
 * 01 - Fundamentos de ETL
 * 02 - Preparação do projeto ETL
